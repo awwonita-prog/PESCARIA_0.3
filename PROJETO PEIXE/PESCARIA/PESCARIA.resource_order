@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[
+    {"name":"effects","order":1,"path":"folders/effects.yy",},
+    {"name":"Fishes","order":6,"path":"folders/objects/Fishes.yy",},
+    {"name":"transition","order":2,"path":"folders/transition.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_Camera","order":5,"path":"objects/Obj_Camera/Obj_Camera.yy",},
+    {"name":"Obj_Fish_1","order":4,"path":"objects/Obj_Fish_1/Obj_Fish_1.yy",},
+    {"name":"Obj_Fish_bounce","order":1,"path":"objects/Obj_Fish_bounce/Obj_Fish_bounce.yy",},
+    {"name":"Obj_Fish_Straight","order":3,"path":"objects/Obj_Fish_Straight/Obj_Fish_Straight.yy",},
+    {"name":"Obj_Fish_Wander","order":2,"path":"objects/Obj_Fish_Wander/Obj_Fish_Wander.yy",},
+    {"name":"obj_game_controller","order":9,"path":"objects/obj_game_controller/obj_game_controller.yy",},
+    {"name":"Obj_Hook","order":8,"path":"objects/Obj_Hook/Obj_Hook.yy",},
+    {"name":"Obj_Next_Room","order":4,"path":"objects/Obj_Next_Room/Obj_Next_Room.yy",},
+    {"name":"Obj_Player","order":1,"path":"objects/Obj_Player/Obj_Player.yy",},
+    {"name":"Obj_Point","order":3,"path":"objects/Obj_Point/Obj_Point.yy",},
+    {"name":"Obj_String","order":2,"path":"objects/Obj_String/Obj_String.yy",},
+    {"name":"Spr_Fishing_Rod","order":1,"path":"sprites/Spr_Fishing_Rod/Spr_Fishing_Rod.yy",},
+  ],
+}
